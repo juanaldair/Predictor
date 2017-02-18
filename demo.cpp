@@ -3,7 +3,11 @@
 // Author      : fernando
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Text predictor projector
+// Description : First text predictor project demo.
+// How to use:
+// 1. Tipping letter by letter, for each letter hit [enter].
+// 2. If you desire delete a word previously written,
+//    press [space] and hit [enter].
 //============================================================================
 
 
